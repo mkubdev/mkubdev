@@ -20,17 +20,12 @@ Here are some ideas to get you started:
 </a>
 <img align="right" height="350px" width="350px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
 -->
-
+<!--
 ### I'm 25 years old Software developer from France.
-
 #### - 🥀 Learning: GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>, NextJs <code> <img height="20" width="20" src="https://nextjs.org/static/favicon/android-chrome-192x192.png"> </code>, Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>... 
-
-
 #### - 💬 Connect ? Here 👉🏼 [<img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/social/email_me.svg" >](mailto:contact@maximekubik.com)
-
-
 <br />
-
+-->
 
 **👨‍💻 I like,**
 
