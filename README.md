@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev) 
-<p>Welcome to my page! </br> I'm [Maxime](https://maximekubik.com), Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>. 
+<p>Welcome to my page! </br> I'm Maxime, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>. 
 <p>My favourites tools: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b>, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b>, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> <b>React</b>, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> <b>NestJs</b> & <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> <b>RxJs</b> </p>
 
 **👨‍💻 I like,**
