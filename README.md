@@ -1,8 +1,6 @@
 <!--
 **mkubdev/mkubdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Maxime Kubik!](https://maximekubik.com) 👋. ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev) 
 <!--
 <a href="https://www.linkedin.com/in/maximekbk/">
   <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
@@ -26,6 +23,15 @@ Here are some ideas to get you started:
 #### - 💬 Connect ? Here 👉🏼 [<img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/social/email_me.svg" >](mailto:contact@maximekubik.com)
 <br />
 -->
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>,</br>currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>My favourites tools: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b>, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b>, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> <b>React</b>, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> <b>NestJs</b> & <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> <b>RxJs</b> </p>
+
+
+### Hi there, I'm [Maxime Kubik!](https://maximekubik.com) 👋. ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev) 
 
 **👨‍💻 I like,**
 
