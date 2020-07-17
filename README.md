@@ -30,9 +30,14 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm Maxime, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>. 
 <p>My favourites tools: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b>, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b>, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> <b>React</b>, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> <b>NestJs</b> & <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> <b>RxJs</b> </p>
 
-**👨‍💻 I like,**
+**👨‍💻 I like :**
 
-**Web Development, Software Development, Micro Services, System Design, E-commerce, SEO, GrowthHacking, Industrial 3D..**
+ - Web Development
+ - Software Development
+ - Micro Services
+ - System Design
+ - Industrial 3D
+ - E-commerce, SEO, GrowthHacking...
 <br />
 
 
