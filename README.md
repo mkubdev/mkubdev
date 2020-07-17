@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **I am Into , 🙏**
 
-**Web Development, Machine Learning, SEO, Micro Services, System Design, E-commerce, 3D 😼**
+**Web Development, Software Development, Micro Services, System Design, E-commerce, SEO, GrowthHacking, Industrial 3D..**
 <br />
 
 
@@ -48,13 +48,11 @@ Here are some ideas to get you started:
 
 ### - Languages and Tools...
 
-<p align="center">
-
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
 </p>
 
 ***********************************
