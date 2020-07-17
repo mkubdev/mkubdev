@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mkubdev/mkubdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,18 +26,13 @@ Here are some ideas to get you started:
 <br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
-<br />
 
 ### Hi 🙋‍♂️,
 ### I'm 25 years old Software developer from France.
 
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>, NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> & Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
-
-#### - 🔭 SpaceX FanBoi, 
-
-#### - 🛸 Into High Energy Physics and Astrophysics
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/mkubdev/mkubdev/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
