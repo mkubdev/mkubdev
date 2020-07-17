@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm [Maxime Kubik!](https://maximekubik.com) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)<a href="https://www.linkedin.com/in/maximekbk/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev)
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev)
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
+<img align="right" height="450px" width="450px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
 
 ### Hi 🙋‍♂️,
 ### I'm 25 years old Software developer from France.
