@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev)
 </a>
 
-<img align="right" height="450px" width="450px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
+<img align="right" height="350px" width="350px" alt="GIF" src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" />
 
 ### Hi 🙋‍♂️,
 ### I'm 25 years old Software developer from France.
