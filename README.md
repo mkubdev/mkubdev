@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br />
 
 
-**I am Into , 🙏**
+**👨‍💻 I like,**
 
 **Web Development, Software Development, Micro Services, System Design, E-commerce, SEO, GrowthHacking, Industrial 3D..**
 <br />
