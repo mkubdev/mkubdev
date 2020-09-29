@@ -22,7 +22,7 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
  - E-commerce, SEO, GrowthHacking...
  -->
 
-### Weekly Public Stats
+### 📊 Weekly Public Stats
 <!--START_SECTION:waka-->
 ```text
 TypeScript   20 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   78.40 % 
