@@ -22,7 +22,7 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
  - E-commerce, SEO, GrowthHacking...
  -->
 
-<!-- ### Weekly Stats -->
+### Weekly Public Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
