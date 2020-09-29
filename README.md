@@ -13,21 +13,19 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 
 <!-- 
-**👨‍💻 I like :**
-
+👨‍💻 I like :
  - Web Development
  - Software Development
  - Micro Services
  - System Design
  - Industrial 3D
  - E-commerce, SEO, GrowthHacking...
-<br /> -->
+ -->
 
 <!-- ### Weekly Stats -->
-<!--START!_!SECTION:waka-->
-<!--END!_!SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 ************* -->
