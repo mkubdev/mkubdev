@@ -10,18 +10,6 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 <!-- The twelves-factor methodology is my religion : https://12factor.net/fr/ -->
 
-
-
-<!-- 
-👨‍💻 I like :
- - Web Development
- - Software Development
- - Micro Services
- - System Design
- - Industrial 3D
- - E-commerce, SEO, GrowthHacking...
- -->
-
 ### 📊 Weekly Public Stats
 <!--START_SECTION:waka-->
 ```text
