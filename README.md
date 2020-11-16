@@ -10,7 +10,7 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 <!-- The twelves-factor methodology is my religion : https://12factor.net/fr/ -->
 
-### 📊 Weekly Public Stats
+### 📊 Current stuff
 <!--START_SECTION:waka-->
 ```text
 TypeScript   11 hrs 47 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.43 % 
