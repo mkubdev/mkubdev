@@ -10,17 +10,7 @@ I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 <!-- The twelves-factor methodology is my religion : https://12factor.net/fr/ -->
 
-### 📊 Current stuff
-<!--START_SECTION:waka-->
-```text
-TypeScript   11 hrs 47 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.43 % 
-HTML         3 hrs 20 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.58 % 
-YAML         1 hr 30 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.43 % 
-JSON         1 hr 27 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.20 % 
-Markdown     1 hr 2 mins     ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.19 % 
-```
-<!--END_SECTION:waka-->
+<!--### 📊 Current stuff-->
+<!--STARTd_SECTION:waka-->
 
-<!-- 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-************* -->
+<!--ENDd_SECTION:waka-->
