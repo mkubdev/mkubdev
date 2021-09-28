@@ -17,6 +17,8 @@ I'm Maxime, Software developer from <img src="https://image.flaticon.com/icons/s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=tokyonight" align="left"><space><space>
 </a><space><space>
   
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mkubdev&theme=algolia&no-bg=true&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=mkubdev&row=2&column=3&theme=algolia&no-bg=true)<space><space>
 
 
