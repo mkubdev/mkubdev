@@ -6,18 +6,15 @@ Welcome to my page!
 
 I'm Maxime, Software developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>. 
 
-<!-- I love working with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b>, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b>, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> <b>React</b>, <img src="https://www.iconfinder.com/data/icons/logos-3/250/angular-512.png" width="20"/> <b>Angular</b>, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> <b>NestJs</b> & <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> <b>RxJs</b>. I'm passionate about engeneering and design and truly believe that learning never stops.](url) -->
+<!--
+ Metrics ✨           | 
+ :--------------------: |
+![Metrics](https://metrics.lecoq.io/mkubdev?template=terminal&isocalendar=1&languages=1&stars=1&tweets=1&activity=1&skyline=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&skyline.year=2021&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&tweets.attachments=false&tweets.limit=2&tweets.user=digikube1&config.timezone=Europe%2FParis) -->
 
-<!--### 📊 Current stuff-->
-<!--STARTd_SECTION:waka-->
-<!--ENDd_SECTION:waka-->
-
-<a href="https://github.com/mkubdev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&theme=tokyonight" align="left"><space><space>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=tokyonight" align="left"><space><space>
-</a><space><space>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mkubdev&theme=algolia&no-bg=true&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=mkubdev&row=2&column=3&theme=algolia&no-bg=true)<space><space>
-
+ My stats ✨           | 
+ :--------------------: |
+<a href="https://github.com/mkubdev/"><img src="https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&theme=tokyonight" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=tokyonight" align="center"></a>
+ Trophy           | 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=mkubdev&theme=algolia&no-bg=true&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=mkubdev&row=2&column=3&theme=algolia&no-bg=true)
 
 
