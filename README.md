@@ -17,8 +17,8 @@ I'm Maxime, Software developer from <img src="https://image.flaticon.com/icons/s
 | My stats ✨              | 
 | :--------------------:   |
 | <a href="https://github.com/mkubdev/"><img src="https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&theme=tokyonight" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=tokyonight" align="center"></a> |
-| Trophy 🏆          |
-| [![trophy](https://github-profile-trophy.vercel.app/?username=mkubdev&theme=algolia&no-bg=true&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=mkubdev&row=2&column=3&theme=algolia&no-bg=true) |
+<!--| Trophy 🏆          |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=mkubdev&theme=algolia&no-bg=true&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=mkubdev&row=2&column=3&theme=algolia&no-bg=true) | -->
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
     
