@@ -7,7 +7,8 @@
 Welcome to my page!
 
 <p>I'm Maxime, Software developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>.</p>
-<p>💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.</p>
+
+💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.
 
 <!--
 | Metrics ✨             | 
