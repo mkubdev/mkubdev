@@ -2,18 +2,23 @@
 
 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev)  -->
+<!--
+    ![](https://visitor-badge.glitch.me/badge?page_id=mkubdev.mkubdev) 
+    <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>
+
+    | Metrics ✨             | 
+    | :--------------------: |
+    | ![Metrics](https://metrics.lecoq.io/mkubdev?template=terminal&isocalendar=1&languages=1&stars=1&tweets=1&activity=1&skyline=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&skyline.year=2021&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&tweets.attachments=false&tweets.limit=2&tweets.user=digikube1&config.timezone=Europe%2FParis) |
+-->
 
 Welcome to my page!
 
-<p>I'm Maxime, Software developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon, France</b>.</p>
+<p>I'm Maxime, Software developer from :fr: <b>Lyon, France</b>.</p>
+
 
 💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.
 
-<!--
-| Metrics ✨             | 
-| :--------------------: |
-| ![Metrics](https://metrics.lecoq.io/mkubdev?template=terminal&isocalendar=1&languages=1&stars=1&tweets=1&activity=1&skyline=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&skyline.year=2021&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&tweets.attachments=false&tweets.limit=2&tweets.user=digikube1&config.timezone=Europe%2FParis) | -->
+
 
 | My stats ✨              | 
 | :--------------------:   |
