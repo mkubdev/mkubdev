@@ -20,7 +20,7 @@ Welcome to my page!
 
 
 
-| My stats ✨              | 
+|            | 
 | :--------------------:   |
 | <a href="https://github.com/mkubdev/"><img src="https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&theme=omni" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=github-dark" align="center"></a> |
 
