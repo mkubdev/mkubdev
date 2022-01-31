@@ -24,8 +24,7 @@ Welcome to my page!
 | :--------------------:   |
 | <a href="https://github.com/mkubdev/"><img src="https://github-readme-stats.vercel.app/api?username=mkubdev&show_icons=true&theme=omni" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mkubdev&theme=github-dark" align="center"></a> |
 
-![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-    
-
+<!--![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)-->
+<img alt="separator-ethglobal" src="https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png" alt="drawing" width="100%" />
 
 
