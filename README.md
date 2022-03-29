@@ -21,7 +21,7 @@
 
 <p>I'm Maxime, Software developer from :fr: <b>Lyon, France</b>.</p>
 
-[![Mkubdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkubdev&bg_color=000000&color=cbcbcb&line=09a9a9&point=d4c324&area=true&hide_border=true)](https://github.com/mkubdev)
+[![Mkubdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkubdev&bg_color=161B22&color=cbcbcb&line=09a9a9&point=d4c324&area=true&hide_border=true)](https://github.com/mkubdev)
 
 💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.
 
