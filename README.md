@@ -14,12 +14,18 @@
 🌾　　　🌱　 🐱‍🐉　🌾　       🌱 🌴    🌱        🎸      🌾　🌴     🌱       🌱  🌿   🌾 ⛵           🌿   🌱　　🌾
 ```
 
-<p>Welcome to my page,<br />
-I'm Maxime, Software developer from :fr: <b>France</b>.</p> 
+<p>Hi,<br />
+I'm Maxime, software developer from :fr:.
 
 - 🌱 Currently learning Blender
 
-💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.
+<!--💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.-->
+     
+---
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mkubdev?style=social">
+  <img src="https://img.shields.io/github/stars/mkubdev?style=social">
+  <img src="https://komarev.com/ghpvc/?username=mkubdev&color=green"> </p>
 
 <!--<img alt="separator-ethglobal" src="https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png" alt="drawing" width="100%" />-->
 
