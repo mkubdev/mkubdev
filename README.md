@@ -17,7 +17,7 @@
 <p>Hi,<br />
 I'm Maxime, software developer from :fr:.
 
-- 🌱 Currently learning Blender
+- 🌱 Currently learning Blender and Three.js
 
 <!--💬 Ask me About Anything [here](https://github.com/mkubdev/mkubdev/issues/1) ! I am happy to help.-->
      
